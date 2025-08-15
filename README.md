@@ -1,4 +1,4 @@
- Awesome Coding Agents and Tools
+# Awesome Coding Agents and Tools
 
 A curated list of notable AI coding agents available for the command line or IDEs. Each entry notes whether the tool provides a CLI, supports remote/headless use, its primary specialization, and whether it is merely a wrapper around other tools.
 
